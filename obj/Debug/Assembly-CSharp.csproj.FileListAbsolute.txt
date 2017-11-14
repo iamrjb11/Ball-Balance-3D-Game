@@ -1,0 +1,42 @@
+H:\OneSceneBall Balance\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+H:\OneSceneBall Balance\Temp\bin\Debug\Assembly-CSharp.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\Assembly-CSharp.pdb
+H:\OneSceneBall Balance\Temp\bin\Debug\UnityEditor.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\UnityEngine.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\UnityEngine.Networking.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\UnityEngine.UI.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\Mono.Cecil.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\Unity.SerializationLogic.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\Unity.DataContract.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\Unity.UNetWeaver.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\Unity.CecilTools.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+H:\OneSceneBall Balance\Temp\bin\Debug\UnityEngine.xml
+H:\OneSceneBall Balance\Temp\bin\Debug\UnityEditor.xml
+H:\OneSceneBall Balance\Temp\bin\Debug\UnityEngine.UI.xml
+H:\OneSceneBall Balance\Temp\bin\Debug\UnityEngine.Networking.xml
+H:\OneSceneBall Balance\obj\Debug\Assembly-CSharp.dll
+H:\OneSceneBall Balance\obj\Debug\Assembly-CSharp.pdb
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\UnityEditor.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\UnityEngine.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\UnityEngine.xml
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\UnityEditor.xml
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\iamrj\Desktop\TryOne\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\iamrj\Desktop\TryOne\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\iamrj\Desktop\TryOne\obj\Debug\Assembly-CSharp.dll
+C:\Users\iamrj\Desktop\TryOne\obj\Debug\Assembly-CSharp.pdb

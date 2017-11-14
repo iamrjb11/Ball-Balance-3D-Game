@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EBA3C124-74B1-7D96-C527-7448BB4138EB}") = "OneSceneBall Balance", "Assembly-CSharp.csproj", "{BB8380C8-6798-2B5B-85BC-C6094CE8E546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8380C8-6798-2B5B-85BC-C6094CE8E546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8380C8-6798-2B5B-85BC-C6094CE8E546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8380C8-6798-2B5B-85BC-C6094CE8E546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8380C8-6798-2B5B-85BC-C6094CE8E546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
